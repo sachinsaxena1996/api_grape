@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'markdown-rails'
 gem 'rails', '4.2.4'
 gem 'rubocop'
+gem 'rack-attack'
 gem 'sass-rails'
 gem 'sdoc', group: :doc
 gem 'sqlite3'

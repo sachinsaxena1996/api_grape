@@ -40,3 +40,6 @@ You should see this same information.
 ## Submitting your project
 
 Check project into github and make sure you are properly commiting code when reasonable as a real project.
+
+API Endpoint:
+http://localhost:3000/api/v1/users/questions_and_answers?token=314e6fd4c534ddb40ea535daefd739f

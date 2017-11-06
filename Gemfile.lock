@@ -123,6 +123,8 @@ GEM
     rack (1.6.4)
     rack-accept (0.4.5)
       rack (>= 0.4)
+    rack-attack (5.0.1)
+      rack
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.4)
@@ -238,6 +240,7 @@ DEPENDENCIES
   jquery-rails
   markdown-rails
   pry
+  rack-attack
   rails (= 4.2.4)
   rspec-rails
   rubocop
